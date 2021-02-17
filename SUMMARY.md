@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [C\#](csharp/README.md)
+* [Design pattern and Framework](csharp/README.md)
   * [2. EventAggregator](csharp/2.-eventaggregator.md)
   * [1. Quartz.net](csharp/1.quarz.net.md)
 * [React](react/README.md)
