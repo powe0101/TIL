@@ -1,3 +1,8 @@
-# TIL
-Today I Learn
-https://www.notion.so/70ccfaf86dbd4a529ad2163bc7533b64
+# Initial page
+
+초기페이지 구성을 해보았어요.
+
+깃북이라는걸 소개받아서 해보고 있는데 신기한데요?
+
+꼭 노션같고 좋네요.
+
