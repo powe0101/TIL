@@ -1,6 +1,4 @@
 # Boyer Moore Horspool Algorithm
 
-{% page-ref page="boyer-moore-horspool-algorithm.md" %}
-
-
+[https://youtu.be/PHXAOKQk2dw](https://youtu.be/PHXAOKQk2dw)
 
