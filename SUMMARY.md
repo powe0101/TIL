@@ -8,3 +8,7 @@
   * [1.탐색](react/1..md)
   * [2. 리디북스 클론 프로젝트](react/2..md)
 
+## Algorithm
+
+* [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
+
