@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Design pattern and Framework](csharp/README.md)
-  * [2. EventAggregator](csharp/2.-eventaggregator.md)
-  * [1. Quartz.net](csharp/1.quarz.net.md)
+* [Design pattern and Framework](dp-and-framework/README.md)
+  * [2. EventAggregator](dp-and-framework/2.-eventaggregator.md)
+  * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
 * [React](react/README.md)
   * [1.탐색](react/1..md)
   * [2. 리디북스 클론 프로젝트](react/2..md)
