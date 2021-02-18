@@ -33,6 +33,14 @@ Console.WriteLine(last);
 
 ## Reference.
 
+{% embed url="https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore\_string\_search\_algorithm" caption="BMH Algorithm wikipedia " %}
+
+{% embed url="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.3421&rep=rep1&type=pdf" caption="Original paper by BMH Algorithm" %}
+
+
+
+
+
 
 
 
