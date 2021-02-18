@@ -2,6 +2,10 @@
 
 {% embed url="https://youtu.be/PHXAOKQk2dw" caption="보이어 무어 호스풀 알고리즘 참고 영상" %}
 
+## Find Pattern
+
+## Naive string search
+
 일반적인 문자열 검색은 다음과 같아요.
 
 ```text
@@ -18,6 +22,18 @@ Console.WriteLine(last);
 ```
 
 > 결과값 : 17, 62
+
+결과값을 얻는 가장 전통적인 방식이에요. 하지만 이런 글자가 수십억개가 된다면?  
+하나하나 일일히 비교하려면 굉장히 많은 시간이 걸릴꺼에요.   
+그래서 저는 새로운 방법을 소개해보려고 해요.
+
+## Boyer-Moore-Horspool search
+
+
+
+## Reference.
+
+
 
 
 
