@@ -107,6 +107,7 @@ BMH 알고리즘은 다음과 같은 문자열 계산 공식을 이용해 표를
 위의 이론을 코드로 나타내면 아래와 같을꺼에요.
 
 ```text
+//created by hyunjin.gil 
 #include <bits/stdc++.h>
 
 using namespace std;
