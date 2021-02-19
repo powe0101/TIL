@@ -141,7 +141,6 @@ void makeTable(map<char,unsigned int> & tables, const string & pattern)
 
 int findString(const map<char, unsigned int>& tables, const string & pattern, const string & str)
 {
-
     //TODO : BMH
 
 
@@ -155,13 +154,11 @@ int main() {
     
     map<char,unsigned int> tables;
     
-    initialize(tables,pattern);
+    initialize(tables, pattern);
     makeTable(tables, pattern);
-   
-    for(auto iter = tables.begin(); iter != tables.end(); ++iter)
-    {
-        cout << (*iter).first << " " << (*iter).second << endl;
-    }
+    int position = findString(tables, pattern, str);
+    
+    cout << position << endl;
     
     return 0;
 }
