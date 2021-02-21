@@ -9,6 +9,8 @@
 * [Books](books/README.md)
   * [Untitled](books/untitled.md)
   * [System Design Interview](books/system-design-interview.md)
+* [￣￣￣￣￣￣￣￣￣￣￣￣￣￣](undefined.md)
+* [Python3](python3.md)
 * [React](react/README.md)
   * [1.탐색](react/1..md)
   * [2. 리디북스 클론 프로젝트](react/2..md)
