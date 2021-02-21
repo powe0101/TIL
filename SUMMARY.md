@@ -4,7 +4,7 @@
 
 ## Design pattern
 
-* [EventAggregator](design-pattern/2.-eventaggregator.md)
+* [EventAggregator](design-pattern/eventaggregator.md)
 * [Messenger for MVVM Light](design-pattern/messenger-for-mvvm-light.md)
 
 ## Framework
