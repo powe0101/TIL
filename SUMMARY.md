@@ -7,7 +7,6 @@
     * [EventAggregator](dp-and-framework/event-pattern-handling/2.-eventaggregator.md)
   * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
 * [Books](books/README.md)
-  * [Untitled](books/untitled.md)
   * [System Design Interview](books/system-design-interview.md)
 * [￣￣￣￣￣￣￣￣￣￣￣￣￣￣](undefined.md)
 * [Python3](python3.md)
