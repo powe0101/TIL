@@ -17,12 +17,10 @@
 
 ## Languages
 
-* [CSharp](languages/csharp/README.md)
-  * [MVVM Example](languages/csharp/untitled.md)
+* [MVVM Example](languages/untitled.md)
 * [React](languages/react/README.md)
   * [1.탐색](languages/react/1..md)
   * [2. 리디북스 클론 프로젝트](languages/react/2..md)
-* [Python3](languages/python3.md)
 
 ## Algorithm
 
