@@ -7,9 +7,9 @@
     * [EventAggregator](dp-and-framework/event-pattern-handling/2.-eventaggregator.md)
   * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
 
-## Books <a id="books-1"></a>
+## Books
 
-* [System Design Interview](books-1/system-design-interview.md)
+* [System Design Interview](books/system-design-interview.md)
 
 ## Languages
 
