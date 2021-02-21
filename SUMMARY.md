@@ -1,11 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Design pattern and Framework](dp-and-framework/README.md)
-  * [Event pattern handling](dp-and-framework/event-pattern-handling/README.md)
-    * [Messenger for MVVM Light](dp-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
-    * [EventAggregator](dp-and-framework/event-pattern-handling/2.-eventaggregator.md)
-  * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
 
 ## Books
 
@@ -23,4 +18,11 @@
 ## Algorithm
 
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
+
+## Design pattern & Framework
+
+* [1. Quartz.net](design-pattern-and-framework/1.quarz.net.md)
+* [Event pattern handling](design-pattern-and-framework/event-pattern-handling/README.md)
+  * [Messenger for MVVM Light](design-pattern-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
+  * [EventAggregator](design-pattern-and-framework/event-pattern-handling/2.-eventaggregator.md)
 
