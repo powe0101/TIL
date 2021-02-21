@@ -6,8 +6,10 @@
     * [Messenger for MVVM Light](dp-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
     * [EventAggregator](dp-and-framework/event-pattern-handling/2.-eventaggregator.md)
   * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
-* [Books](books/README.md)
-  * [System Design Interview](books/system-design-interview.md)
+
+## Books <a id="books-1"></a>
+
+* [System Design Interview](books-1/system-design-interview.md)
 
 ## Languages
 
