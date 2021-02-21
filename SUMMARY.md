@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [Design pattern and Framework](dp-and-framework/README.md)
-  * [2. EventAggregator](dp-and-framework/2.-eventaggregator.md)
+  * [Event pattern handling](dp-and-framework/event-pattern-handling/README.md)
+    * [Messenger for MVVM Light](dp-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
+    * [EventAggregator](dp-and-framework/event-pattern-handling/2.-eventaggregator.md)
   * [1. Quartz.net](dp-and-framework/1.quarz.net.md)
 * [Books](books/README.md)
   * [Untitled](books/untitled.md)
