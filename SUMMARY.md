@@ -2,11 +2,14 @@
 
 * [Introduction](README.md)
 
-## Design pattern & Framework
+## Design pattern
 
-* [EventAggregator](design-pattern-and-framework/2.-eventaggregator.md)
-* [Messenger for MVVM Light](design-pattern-and-framework/messenger-for-mvvm-light.md)
-* [Quartz.net](design-pattern-and-framework/1.quarz.net.md)
+* [EventAggregator](design-pattern/2.-eventaggregator.md)
+* [Messenger for MVVM Light](design-pattern/messenger-for-mvvm-light.md)
+
+## Framework
+
+* [Quartz.net](framework/1.quarz.net.md)
 
 ## Books
 
