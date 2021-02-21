@@ -2,6 +2,13 @@
 
 * [Introduction](README.md)
 
+## Design pattern & Framework
+
+* [1. Quartz.net](design-pattern-and-framework/1.quarz.net.md)
+* [Event pattern handling](design-pattern-and-framework/event-pattern-handling/README.md)
+  * [Messenger for MVVM Light](design-pattern-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
+  * [EventAggregator](design-pattern-and-framework/event-pattern-handling/2.-eventaggregator.md)
+
 ## Books
 
 * [System Design Interview](books/system-design-interview.md)
@@ -18,11 +25,4 @@
 ## Algorithm
 
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
-
-## Design pattern & Framework
-
-* [1. Quartz.net](design-pattern-and-framework/1.quarz.net.md)
-* [Event pattern handling](design-pattern-and-framework/event-pattern-handling/README.md)
-  * [Messenger for MVVM Light](design-pattern-and-framework/event-pattern-handling/messenger-for-mvvm-light.md)
-  * [EventAggregator](design-pattern-and-framework/event-pattern-handling/2.-eventaggregator.md)
 
