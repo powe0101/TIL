@@ -9,7 +9,7 @@
 
 ## Framework
 
-* [Python3 - Anaconda](framework/python3-anaconda.md)
+* [Setup Python3 - Anaconda](framework/python3-anaconda.md)
 * [Quartz.net](framework/1.quarz.net.md)
 
 ## Books
