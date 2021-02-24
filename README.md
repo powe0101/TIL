@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on C\#
 * 💬 Ask me about [https://hyunjin.space/](https://hyunjin.space/)
 * Documents [https://til.hyunjin.space/](https://til.hyunjin.space/)
+* Email[ hyunjin.direct@gmail.com](email://hyunjin.direct@gmail.com)
+
+
 
 
 
