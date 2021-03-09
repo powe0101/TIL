@@ -11,7 +11,7 @@
 ## Framework
 
 * [.Net framework CLR](framework/.net-framework-clr/README.md)
-  * [SOH, BOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
+  * [SOH, LOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
 * [Setup Python3 - Anaconda](framework/python3-anaconda.md)
 * [Quartz.net](framework/1.quarz.net.md)
 
