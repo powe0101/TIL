@@ -4,6 +4,7 @@
 
 ## Design pattern
 
+* [Async to coroutine](design-pattern/async-to-coroutine.md)
 * [EventAggregator](design-pattern/eventaggregator.md)
 * [Messenger for MVVM Light](design-pattern/messenger-for-mvvm-light.md)
 
