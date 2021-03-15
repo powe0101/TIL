@@ -36,6 +36,7 @@
 
 ## Tools
 
+* [Nextcloud](tools/nextcloud.md)
 * [Jira](tools/jira.md)
 * [Yona](tools/yona.md)
 
