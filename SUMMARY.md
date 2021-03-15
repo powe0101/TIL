@@ -39,3 +39,9 @@
 * [Jira](tools/jira.md)
 * [Yona](tools/yona.md)
 
+## Project
+
+* [Portfolio](project/portfolio/README.md)
+  * [Handrum](project/portfolio/handrum.md)
+  * [Algoria](project/portfolio/algoria.md)
+
