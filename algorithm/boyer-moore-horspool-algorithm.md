@@ -141,12 +141,44 @@ void makeTable(map<char,unsigned int> & tables, const string & pattern)
     }
 }
 
-int findString(const map<char, unsigned int>& tables, const string & pattern, const string & str)
+vector<unsigned int> findString(map<char, unsigned int>& tables, const string& pattern, const string& str)
 {
     //TODO : BMH
+    unsigned int offset = 0;
 
+    const auto patternLastIndex = pattern.size() - 1;
 
-    return -1;
+    vector<unsigned int> matches;
+
+    while (offset <= str.size())
+    {
+        auto currentIndex = patternLastIndex;
+        if (currentIndex + offset > str.size())
+            break;
+
+        while (pattern[currentIndex] == str[currentIndex + offset])
+        {
+            if (currentIndex == 0)
+            {
+                matches.push_back(offset);
+                offset += 1;
+                break;
+            }
+            currentIndex--;
+        }
+
+        const char rightMostChar = str[patternLastIndex + offset];
+        if (tables.find(rightMostChar) != tables.end())
+        {
+            offset += tables[rightMostChar];
+        }
+        else
+        {
+            offset += pattern.size();
+        }
+    }
+
+    return matches;
 }
 
 int main() {
