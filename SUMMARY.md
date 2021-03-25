@@ -32,6 +32,7 @@
 
 ## Algorithm
 
+* [Knuth Morris Pratt algorithm](algorithm/knuth-morris-pratt-algorithm.md)
 * [Standard Deviation](algorithm/standard-deviation.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
