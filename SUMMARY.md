@@ -32,6 +32,7 @@
 
 ## Algorithm
 
+* [Standard Deviation](algorithm/standard-deviation.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
 ## Tools
