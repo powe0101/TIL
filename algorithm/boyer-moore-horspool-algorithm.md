@@ -143,7 +143,6 @@ void makeTable(map<char,unsigned int> & tables, const string & pattern)
 
 vector<unsigned int> findString(map<char, unsigned int>& tables, const string& pattern, const string& str)
 {
-    //TODO : BMH
     unsigned int offset = 0;
 
     const auto patternLastIndex = pattern.size() - 1;
