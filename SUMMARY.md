@@ -24,7 +24,7 @@
 
 * [System Design Interview](books/system-design-interview/README.md)
   * [FOREWORD](books/system-design-interview/foreword.md)
-  * [Untitled](books/system-design-interview/untitled.md)
+  * [Scale from zero to millions of users](books/system-design-interview/untitled.md)
 
 ## Languages
 
