@@ -1,7 +1,3 @@
----
-description: First of all
----
-
 # Foreword
 
 * 시스템 디자인은 패턴이 없고 범위가 크고 모호하다.
