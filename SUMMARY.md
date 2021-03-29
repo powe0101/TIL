@@ -23,7 +23,7 @@
 ## Books
 
 * [System Design Interview](books/system-design-interview/README.md)
-  * [FOREWORD](books/system-design-interview/foreword.md)
+  * [Foreword](books/system-design-interview/foreword.md)
   * [Scale from zero to millions of users](books/system-design-interview/scale-from-zero-to-millions-of-users.md)
 
 ## Languages

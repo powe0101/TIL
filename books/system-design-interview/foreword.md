@@ -2,7 +2,7 @@
 description: First of all
 ---
 
-# FOREWORD
+# Foreword
 
 * 시스템 디자인은 패턴이 없고 범위가 크고 모호하다.
 * 표준적인 내용이 없고, 정답이 명확하지 않다.
