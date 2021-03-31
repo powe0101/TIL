@@ -1,2 +1,14 @@
-# Usage Programming Language
+# Application Programming Language
+
+### 변수
+
+1. 자동변수 - 함수나 코드의 범위를 한정하는 블록 내에서 선언되는 변수 - 초기화 하지 않으면 쓰레기 값 저장
+2. 외부변수 - 참조 하기 위한 변수 
+3. 레지스터 변수 - CPU 내부 할당 - 처리속도가 빠름
+
+### 
+
+
+
+
 
