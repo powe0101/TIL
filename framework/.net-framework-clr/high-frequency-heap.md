@@ -35,13 +35,19 @@ SystemDomain is also responsible for generating process-wide interface IDs, whic
 
 #### Shared Domain
 
-All of the domain-neutral code is loaded into SharedDomain. Mscorlib, the system library, is needed by the user code in all the AppDomains. It is automatically loaded into SharedDomain. Fundamental types from the System namespace like Object, ValueType, Array, Enum, String, and Delegate get preloaded into this domain during the CLR bootstrapping process. User code can also be loaded into this domain, using LoaderOptimization attributes specified by the CLR hosting app while calling CorBindToRuntimeEx. Console programs can load code into SharedDomain by annotating the app's Main method with a System.LoaderOptimizationAttribute. SharedDomain also manages an assembly map indexed by the base address, which acts as a lookup table for managing shared dependencies of assemblies being loaded into DefaultDomain and of other AppDomains created in managed code. DefaultDomain is where non-shared user code is loaded.
+All of the domain-neutral code is loaded into SharedDomain. Mscorlib, the system library, is needed by the user code in all the AppDomains. It is automatically loaded into SharedDomain. 
+
+Fundamental types from the System namespace like Object, ValueType, Array, Enum, String, and Delegate get preloaded into this domain during the CLR bootstrapping process. User code can also be loaded into this domain, using LoaderOptimization attributes specified by the CLR hosting app while calling CorBindToRuntimeEx. 
+
+Console programs can load code into SharedDomain by annotating the app's Main method with a System.LoaderOptimizationAttribute. SharedDomain also manages an assembly map indexed by the base address, which acts as a lookup table for managing shared dependencies of assemblies being loaded into DefaultDomain and of other AppDomains created in managed code. DefaultDomain is where non-shared user code is loaded.
 
 #### Default AppDomain
 
-DefaultDomain is an instance of AppDomain within which application code is typically executed. While some applications require additional AppDomains to be created at runtime \(such as apps that have plug-in architectures or apps doing a significant amount of run-time code generation\), most applications create one domain during their lifetime. All code that executes in this domain is context-bound at the domain level. If an application has multiple AppDomains, any cross-domain access will occur through .NET Remoting proxies. Additional intra-domain context boundaries can be created using types inherited from System.ContextBoundObject. Each AppDomain has its own SecurityDescriptor, SecurityContext, and DefaultContext, as well as its own loader heaps \(High-Frequency Heap, Low-Frequency Heap, and Stub Heap\), Handle Tables \(Handle Table, Large Object Heap Handle Table\), Interface Vtable Map Manager, and Assembly Cache.
+DefaultDomain is an instance of AppDomain within which application code is typically executed. While some applications require additional AppDomains to be created at runtime \(such as apps that have plug-in architectures or apps doing a significant amount of run-time code generation\), most applications create one domain during their lifetime. 
 
-### 
+All code that executes in this domain is context-bound at the domain level. If an application has multiple AppDomains, any cross-domain access will occur through .NET Remoting proxies. Additional intra-domain context boundaries can be created using types inherited from System.ContextBoundObject.
+
+Each AppDomain has its own SecurityDescriptor, SecurityContext, and DefaultContext, as well as its own loader heaps \(High-Frequency Heap, Low-Frequency Heap, and Stub Heap\), Handle Tables \(Handle Table, Large Object Heap Handle Table\), Interface Vtable Map Manager, and Assembly Cache.
 
 ### Summary
 
@@ -54,7 +60,7 @@ DefaultDomain is an instance of AppDomain within which application code is typic
 **JIT Code Heap:** memory allocated by mscoreee \(Execution Engine\) and the JIT compiler for managed code  
 **Process/Base Heap:** interop/unmanaged allocations, native memory, etc
 
-### 
+### \#
 
 ### Reference
 
