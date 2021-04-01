@@ -22,7 +22,7 @@
 이 중 High Frequency Heap은 System Domain에 속해있구요.  
 보통 말하는 힙이라는것은 GC heap 을 말하는데 이 친구는 appdomain에서 동작하는 친구에요.  
   
- **Loader Heap:** contains CLR structures and the type system  
+**Loader Heap:** contains CLR structures and the type system  
 **High Frequency Heap:** statics, MethodTables, FieldDescs, interface map  
 **Low Frequency Heap:** EEClass, ClassLoader and lookup tables  
 **Stub Heap:** stubs for CAS, COM wrappers, PInvoke  
