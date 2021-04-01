@@ -41,9 +41,7 @@ All of the domain-neutral code is loaded into SharedDomain. Mscorlib, the system
 
 DefaultDomain is an instance of AppDomain within which application code is typically executed. While some applications require additional AppDomains to be created at runtime \(such as apps that have plug-in architectures or apps doing a significant amount of run-time code generation\), most applications create one domain during their lifetime. All code that executes in this domain is context-bound at the domain level. If an application has multiple AppDomains, any cross-domain access will occur through .NET Remoting proxies. Additional intra-domain context boundaries can be created using types inherited from System.ContextBoundObject. Each AppDomain has its own SecurityDescriptor, SecurityContext, and DefaultContext, as well as its own loader heaps \(High-Frequency Heap, Low-Frequency Heap, and Stub Heap\), Handle Tables \(Handle Table, Large Object Heap Handle Table\), Interface Vtable Map Manager, and Assembly Cache.
 
-
-
-
+### 
 
 ### Summary
 
