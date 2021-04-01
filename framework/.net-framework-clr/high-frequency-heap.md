@@ -60,6 +60,10 @@ DefaultDomain is an instance of AppDomain within which application code is typic
 
 {% embed url="https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/may/net-framework-internals-how-the-clr-creates-runtime-objects" %}
 
+{% embed url="https://mattwarren.org/2017/07/10/Memory-Usage-Inside-the-CLR/" %}
+
+
+
 
 
 
