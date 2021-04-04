@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [English Resume](english-resume.md)
 
 ## Design pattern
 
