@@ -9,7 +9,7 @@
 처음 구축을 위해서 도커를 먼저 설치해야해요. 도커 설치법은 다음에 다시 포스팅하기로 해요.  
 이 글은 도커가 설치되어있는 시놀로 환경을 기준으로 작성할께요.
 
-## Docker With  miniconda
+## Docker With miniconda
 
 도커 레지스트리를 먼저 받아야 해요. 저는 [continumio/miniconda3](https://registry.hub.docker.com/r/continuumio/miniconda3/) 라는 레지스트리를 사용했어요.  
 설치 명령어는 다음과 같아요.
