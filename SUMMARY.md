@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Korean Resume](korean-resume.md)
 * [English Resume](english-resume.md)
 
 ## Design pattern
