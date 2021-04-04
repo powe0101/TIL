@@ -26,6 +26,7 @@
 ## Books
 
 * [System Design Interview](books/system-design-interview/README.md)
+  * [Stateless Server](books/system-design-interview/stateless-server.md)
   * [Foreword](books/system-design-interview/foreword.md)
   * [Scale from zero to millions of users](books/system-design-interview/scale-from-zero-to-millions-of-users.md)
 
