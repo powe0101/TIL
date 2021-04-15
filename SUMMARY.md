@@ -38,8 +38,6 @@
 
 ## Algorithm
 
-* [Standard Deviation](algorithm/standard-deviation.md)
-* [Knuth Morris Pratt algorithm](algorithm/knuth-morris-pratt-algorithm.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
 ## Tools

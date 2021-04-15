@@ -1,2 +1,0 @@
-# Knuth Morris Pratt algorithm
-
