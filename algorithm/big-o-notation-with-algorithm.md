@@ -1,4 +1,4 @@
-# Big O Notation with Algorithm
+# Complexity with Algorithm
 
 ### First of all
 

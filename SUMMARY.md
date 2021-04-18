@@ -39,7 +39,7 @@
 
 ## Algorithm
 
-* [Big O Notation with Algorithm](algorithm/big-o-notation-with-algorithm.md)
+* [Complexity with Algorithm](algorithm/big-o-notation-with-algorithm.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
 ## Tools
