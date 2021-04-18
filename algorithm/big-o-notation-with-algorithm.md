@@ -1,0 +1,59 @@
+# Big O Notation with Algorithm
+
+### First of all
+
+ 우리가 풀고, 구현하고, 사용하는 알고리즘은 어떻게 쓰는게 가장 효율적일까요?  
+저는 이 질문의 답을 시간 복잡도와 공간 복잡도가 어떻게 될지를 아는것에서 시작한다고 생각해요.  
+그리고 이 복잡도를 위해서는 자바스크립트나 C++, C\#등 사용하는 언어에 따라 알고리즘이 어떻게 변화하는게 효율적인지 알아야 합니다.
+
+그래서 저는 먼저 시간 복잡도에 대한 이야기를 해보려고 해요.
+
+### Asymptotic Notation
+
+ 우리는 항상 컴퓨터가 빨리 계산해서 결과를 보여주길 원해요. 그래서 알고리즘을 구현하고 이를 최적화 하는 것은 다양한 방식의 패턴이 있을 수 있고 이를 위한 다양한 상수와 계수가 존재합니다.  
+그리고 이를 쉽게 표현하기 위해 알고리즘 실행시간에서 필요한 가장 큰 부분들만 계산해서 이를 속도로 표기한것을 **점근적 표기법** 이라고 해요.
+
+그러니까, 점근적 표기법은 알고리즘을 만들고 그 알고리즘이 잘 만들어 졌는지 평가하는 방법인거죠. 그리고 그걸 평가하는 기준은 주어진 데이터 기준으로 수행시간 이나 사용 공간이 얼마나 사용되는지가 되는거구요.
+
+그런 표기법에는 빅 오, 오메가, 세타 등이 있어요.
+
+### Asymptotic tighter bound \(Theta Notation\)
+
+
+
+### Asymptotic lower bound \(Omega Notation\)
+
+
+
+### Asymptotic upper bound \(Big-O Notation\)
+
+빅오 표기법은 한 줄로 말하면 "아무리 나빠도 이정도 속도가 소요된다." 라고 할 수 있어요.
+
+알고리즘 수행 시간은 매번 수행할 때마다 데이터나 하드웨어의 차이로 인해 변동이 됩니다.  
+그런데 만약 알고리즘 수행 중 백번중에 한번 나온 속도로 표기 한다면 객관적인 알고리즘의 속도가 될 수 없겠죠?
+
+그렇기 때문에 "제가 만든 알고리즘은 아무리 느려도 100점 만점에 60점 정도의 속도가 나와요!" 라고 말하는것이 가장 바람직합니다. 이를 정리해서 최악의 경우 60점 정도의 속도를 가지는 알고리즘이라고 표기하는거죠.  
+그래서 알고리즘 표기법중에 가장 많이 쓰입니다.
+
+![Big-O Notation Graph](../.gitbook/assets/image%20%2823%29.png)
+
+### Data Structures Table
+
+| Data Structures | Average Case |  |  | Worst Case |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | Search | Insert | Delete | Search | Insert | Delete |
+| Array | O\(n\) | N/A | N/A | O\(n\) | N/A | N/A |
+| Sorted Array | O\(log n\) | O\(n\) | O\(n\) | O\(log n\) | O\(n\) | O\(n\) |
+| Linked List | O\(n\) | O\(1\) | O\(1\) | O\(n\) | O\(1\) | O\(1\) |
+| Doubly Linked List | O\(n\) | O\(1\) | O\(1\) | O\(n\) | O\(1\) | O\(1\) |
+| Stack | O\(n\) | O\(1\) | O\(1\) | O\(n\) | O\(1\) | O\(1\) |
+| Hash table | O\(1\) | O\(1\) | O\(1\) | O\(n\) | O\(n\) | O\(n\) |
+| Binary Search Tree | O\(log n\) | O\(log n\) | O\(log n\) | O\(n\) | O\(n\) | O\(n\) |
+| B-Tree | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) |
+| Red-Black tree | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) |
+| AVL Tree | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) | O\(log n\) |
+
+### Reference
+
+
+
