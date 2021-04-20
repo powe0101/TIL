@@ -1,4 +1,4 @@
-# Complexity with Algorithm
+# Complexity of an Algorithm
 
 ### First of all
 
