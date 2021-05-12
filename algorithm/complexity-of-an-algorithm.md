@@ -83,6 +83,10 @@ SOTA는 AI나 딥러닝 분야에서 주로 쓰는 용어라고 알고 있어요
 
 ### Reference
 
+{% hint style="info" %}
+[https://www.bowdoin.edu/~ltoma/teaching/cs231/spring16/Lectures/01-analysis/analysis.pdf](https://www.bowdoin.edu/~ltoma/teaching/cs231/spring16/Lectures/01-analysis/analysis.pdf)
+{% endhint %}
+
 {% embed url="https://www.mathway.com/ko/popular-problems/Algebra/716931" %}
 
 {% embed url="https://meherchilakalapudi.wordpress.com/category/data-structures-1asymptotic-analysis/" %}
