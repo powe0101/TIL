@@ -21,7 +21,7 @@ description: Notation and SOTA with Asymptotic
 
 그러니까, 점근적 표기법은 알고리즘을 만들고 그 알고리즘이 잘 만들어 졌는지 평가하는 방법인거죠. 그리고 그걸 평가하는 기준은 주어진 데이터 기준으로 수행시간 이나 사용 공간이 얼마나 사용되는지가 되는거구요.
 
-그런 표기법에는 빅 오, 오메가, 세타 등이 있어요. 이걸 그래프로 표기해보고 알아볼께요.
+그런 표기법에는 여러가지가 있지만 저는 빅 오, 오메가, 세타 이 3개를 이야기 해볼꺼에요.
 
 ### Basic notation operation
 
@@ -40,7 +40,11 @@ SOTA는 AI나 딥러닝 분야에서 주로 쓰는 용어라고 알고 있어요
 
 ### Asymptotic tighter bound \(Theta Notation\)
 
-새로 만든 알고리즘이 "아무리 나쁘거나 좋더라도 기존의 비교하는 속도안에 있다" 라는 뜻이에요.
+![](../.gitbook/assets/image%20%2824%29.png)
+
+새로 만든 알고리즘이 "아무리 나쁘거나 좋더라도 기존에 존재하는 알고리즘의 속도안에 있다" 라는 뜻이에요.
+
+그러니까, 위 그림에서처럼 $$c_1g(n)$$과 $$c_2g(n)$$의 사이에 f\(n\)이 있다는 말은 기존에 존재하는 알고리즘의 점근적 상한선\(Big-O Nation\)와 점근적 하한선\(Omega Notation\) 속도 사이에 있다는 말이죠.
 
 ### Asymptotic lower bound \(Omega Notation\)
 
@@ -82,6 +86,10 @@ SOTA는 AI나 딥러닝 분야에서 주로 쓰는 용어라고 알고 있어요
 
 
 {% embed url="https://www.mathway.com/ko/popular-problems/Algebra/716931" %}
+
+{% embed url="https://meherchilakalapudi.wordpress.com/category/data-structures-1asymptotic-analysis/" %}
+
+
 
 
 
