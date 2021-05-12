@@ -83,8 +83,6 @@ SOTA는 AI나 딥러닝 분야에서 주로 쓰는 용어라고 알고 있어요
 
 {% embed url="https://ko.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation" %}
 
-
-
 {% hint style="info" %}
 [https://www.bowdoin.edu/~ltoma/teaching/cs231/spring16/Lectures/01-analysis/analysis.pdf](https://www.bowdoin.edu/~ltoma/teaching/cs231/spring16/Lectures/01-analysis/analysis.pdf)
 {% endhint %}
