@@ -62,6 +62,9 @@ SOTA는 AI나 딥러닝 분야에서 주로 쓰는 용어라고 알고 있어요
 
 ### Data Structures Table
 
+이건 일반적으로 구현하는 데이터 구조들의 속도를 표로 정리해둔것이에요.  
+만약 임의로 새로 구현해야 한다면 이 표를 참고해서 최소한 이정도 속도는 나오도록 구현하는 것이 좋아요.
+
 | Data Structures | Average Case |  |  | Worst Case |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | Search | Insert | Delete | Search | Insert | Delete |
