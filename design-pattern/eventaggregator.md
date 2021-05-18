@@ -95,13 +95,59 @@ public class EventAggregator : IEventAggregator
 
 ### 이벤트 구독
 
+이벤트의 구독은 먼저 대상이 되는 이벤트의 클래스를 정의해야해요.  
+저는 여기에서 예시로 이벤트 클래스와 그 이벤트의 arguments를 다루는 클래스를 하나 만들어 볼께요.
+
 ```csharp
-EventAggregator.Instance.Subscribe<EventTargetClass>(OnEventMethod);
+public class ProcessCompleteEvent : IApplicationEvent
+{
+   private ProcessCompleteEventArgs args;
+   
+   public ProcessCompletedEvent(ProcessCompleteEventArgs args)
+   {
+      this.args = args;
+   }
+}
+
+public class ProcessCompleteEventArgs
+{
+   public int result = default(int);
+   public string message = default(string);
+   
+   public ProcessCompleteEventArgs(int result, string message)
+   {
+      this.result = result;
+      this.message = message;
+   }
+}
 ```
 
-이벤트는 위 코드처럼 구독\(등록\)할 수 있어요.
+대상이 될 클래스와 이벤트를 만들었다면, 이제 구독을 할 차례에요. 구독은 다음과 같은 구조로 이루어져 있어요.
+
+먼저 이벤트의 호출 대상 메서드를 만들고, 그 메서드를 Subscribe 하는 코드를 작성해요.
+
+```csharp
+private void OnEventMethod(ProcessCompleteEvent e)
+{
+    Console.WriteLine(MethodBase.GetCurrentMethod().Name.ToString());
+}
+
+EventAggregator.Instance.Subscribe<ProcessCompleteEvent>(OnEventMethod);
+```
 
 ### 이벤트 전달하기
 
+이렇게 이벤트를 위한 클래스를 만드는 작업이 끝나면 아래와 같은 코드로 이벤트를 publish 합니다.
+
+```csharp
+var args = new ProcessCompleteEvent(0, "Test Event Call");
+
+EventAggregator.Instance.Publish<ProcessCompleteEvent>(args);
+```
+
 ### 멀티 이벤트 구독
+
+### Event Filtering
+
+
 
