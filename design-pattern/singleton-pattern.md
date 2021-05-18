@@ -11,7 +11,26 @@
 
 ### Not thread-safe version
 
-
+```text
+public class SingleManager
+{
+    private static SingleManager instance = null;
+    private SingleManager()
+    {
+        //TODO:
+    }
+    
+    public static SingleManager Instance
+    {
+        get
+        {
+            if(instance == null)
+                instance = new SingleManager();
+            return instance;
+        }
+    }
+}
+```
 
 ### Thread-safe version
 
