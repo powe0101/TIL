@@ -32,7 +32,7 @@ public class SingleManager
 }
 ```
 
-### Thread-safe version
+### Traditional Thread-safe version
 
 ```text
 public class SingleManager
@@ -59,4 +59,6 @@ public class SingleManager
     }
 }
 ```
+
+### Lazy Thread-safe version
 
