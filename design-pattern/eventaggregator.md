@@ -145,9 +145,7 @@ var args = new ProcessCompleteEvent(0, "Test Event Call");
 EventAggregator.Instance.Publish<ProcessCompleteEvent>(args);
 ```
 
-### 멀티 이벤트 구독
-
-### Event Filtering
+### 
 
 
 
