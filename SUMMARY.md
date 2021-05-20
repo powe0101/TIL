@@ -6,6 +6,7 @@
 
 ## Design pattern
 
+* [MVVM Pattern](design-pattern/mvvm-pattern.md)
 * [Singleton Pattern](design-pattern/singleton-pattern.md)
 * [Docker](design-pattern/docker/README.md)
   * [Compose network](design-pattern/docker/compose-network.md)
