@@ -6,6 +6,7 @@
 
 ## MVVM Pattern
 
+* [View-First or ViewModel-First](mvvm-pattern/view-first-or-viewmodel-first.md)
 * [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
 
 ## Design pattern
