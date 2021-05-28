@@ -7,7 +7,6 @@
 ## Design pattern
 
 * [Synchronized Data](design-pattern/synchronized-data.md)
-* [Separation of Concerns](design-pattern/mvvm-pattern.md)
 * [Singleton Pattern](design-pattern/singleton-pattern.md)
 * [Docker](design-pattern/docker/README.md)
   * [Compose network](design-pattern/docker/compose-network.md)
@@ -60,4 +59,8 @@
 
 * [Contents](engineer-information-processing/untitled/README.md)
   * [Requirements Engineering](engineer-information-processing/untitled/requirements-engineering.md)
+
+## MVVM Pattern
+
+* [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
 
