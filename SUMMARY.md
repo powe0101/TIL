@@ -4,6 +4,10 @@
 * [Korean Resume](korean-resume.md)
 * [English Resume](english-resume.md)
 
+## MVVM Pattern
+
+* [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
+
 ## Design pattern
 
 * [Synchronized Data](design-pattern/synchronized-data.md)
@@ -59,8 +63,4 @@
 
 * [Contents](engineer-information-processing/untitled/README.md)
   * [Requirements Engineering](engineer-information-processing/untitled/requirements-engineering.md)
-
-## MVVM Pattern
-
-* [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
 
