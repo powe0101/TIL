@@ -31,6 +31,14 @@ MVVM의 가장 큰 목표는 유지보수를 쉽게 할 수 있게 만드는데 
 
 #### Model Resposibilites
 
+Validation  
+INotify프로그램의 데이터  
+모델 객체간의 관계를 노출  
+속성 계산  
+변경 알림 발생  
+INotifyPropertyChagned 이벤트를 통한 프로퍼티 변경  
+INotify 관련 이벤트 구
+
 #### ViewModel Responsibilites
 
 
@@ -39,7 +47,7 @@ MVVM의 가장 큰 목표는 유지보수를 쉽게 할 수 있게 만드는데 
 
 #### 
 
-
+#### MVVM Concern
 
 MVVM이 이루고 있는 Model, View, ViewModel을 간단하게 설명하면 Model은 데이터를 추상화 한것이고 ViewModel은 View를 추상화 한것이며 View는 ViewModel을 표현한것이라고 생각해요.
 
