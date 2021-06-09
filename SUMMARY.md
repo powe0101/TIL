@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Korean Resume](korean-resume.md)
-* [English Resume](english-resume.md)
+* [이력서](https://www.notion.so/ef7bf598bac84222afd0db384335c533)
+* [Resume](https://docs.google.com/document/d/1M4wCGUqIXXYlD0jJzWY8m6VHzf9L4gB94MNSM8d8odE/edit)
 
 ## MVVM Pattern
 
