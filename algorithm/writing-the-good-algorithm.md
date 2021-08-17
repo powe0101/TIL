@@ -17,6 +17,8 @@
 
 ### Reference
 
+[http://dblab.duksung.ac.kr/ds/pdf/Chap02.pdf](http://dblab.duksung.ac.kr/ds/pdf/Chap02.pdf)
+
 [https://archive.mu.ac.in/myweb\_test/syllFybscit/C++.pdf](https://archive.mu.ac.in/myweb_test/syllFybscit/C++.pdf)  
 
 
