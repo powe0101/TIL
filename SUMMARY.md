@@ -46,6 +46,7 @@
 
 ## Algorithm
 
+* [Writing the Good Algorithm](algorithm/writing-the-good-algorithm.md)
 * [Tree\(Graph theory\)](algorithm/tree-graph-theory.md)
 * [Map and unordered\_map](algorithm/map-and-unordered_map.md)
 * [Complexity of an Algorithm](algorithm/complexity-of-an-algorithm.md)
