@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [이력서](https://www.notion.so/ef7bf598bac84222afd0db384335c533)
 * [Resume](https://docs.google.com/document/d/1M4wCGUqIXXYlD0jJzWY8m6VHzf9L4gB94MNSM8d8odE/edit)
 
 ## MVVM Pattern
@@ -21,7 +20,7 @@
 
 ## Framework
 
-* [Trusted Platform Module \(TPM\)](framework/trusted-platform-module-tpm.md)
+* [Trusted Platform Module (TPM)](framework/trusted-platform-module-tpm.md)
 * [.Net Core 3.1](framework/.net-core-3.1/README.md)
   * [React with .net core 3.1](framework/.net-core-3.1/react-with-.net-core-3.1.md)
   * [Setting for synology docker with .Net Core 3.1](framework/.net-core-3.1/setting-for-synology-docker-with-.net-core-3.1.md)
@@ -48,8 +47,8 @@
 
 * [Untitled](algorithm/untitled.md)
 * [Writing the Good Algorithm](algorithm/writing-the-good-algorithm.md)
-* [Tree\(Graph theory\)](algorithm/tree-graph-theory.md)
-* [Map and unordered\_map](algorithm/map-and-unordered_map.md)
+* [Tree(Graph theory)](algorithm/tree-graph-theory.md)
+* [Map and unordered\_map](algorithm/map-and-unordered\_map.md)
 * [Complexity of an Algorithm](algorithm/complexity-of-an-algorithm.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
@@ -72,4 +71,3 @@
 ## Microsoft / Github
 
 * [Github Copilot](microsoft-github/github-copilot.md)
-
