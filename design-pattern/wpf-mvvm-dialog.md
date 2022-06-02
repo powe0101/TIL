@@ -10,7 +10,7 @@ description: WP의 MVVM 구조에서 Dialog 호출 및 관리하기
 
 일반적으로 다이얼로그는 결국 View이기때문에 ViewModel에서 직접 인스턴스를 획득하여 핸들링하는 것은 패턴 규칙에 위배되게 됩니다.
 
-
+### Instructions
 
 1. Interface 설명
    1. IDialog\
@@ -49,5 +49,9 @@ description: WP의 MVVM 구조에서 Dialog 호출 및 관리하기
        * Dialog를 보여주기 위해 동적으로 Instance를 생성하기 위하여 Activator를 생성하고 관리합니다.
        * Modal, Modeless 를 구별합니다.
 
-### Instructions
+### Reference
+
+{% embed url="https://github.com/shwlee/DialogService" %}
+
+{% embed url="https://m.blog.naver.com/vactorman/222062958706" %}
 
