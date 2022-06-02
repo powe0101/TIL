@@ -10,7 +10,7 @@
 
 ## Large of heap
 
-  
+\
 
 
 ## Assign
@@ -22,6 +22,4 @@
 ## Reference.
 
 {% embed url="http://www.simpleisbest.net/post/2011/04/11/Large-Object-Heap-Intro.aspx" %}
-
-
 

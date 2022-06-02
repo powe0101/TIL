@@ -2,7 +2,7 @@
 
 ### 개요
 
-EventAggregator는 이벤트의 구독\(Subscribe\)과 출판\(Publish\)의 매커니즘을 가지고 있는 구조에요.이 패턴을 사용하면 이벤트들을 관리하는 기능을 제공하여 상대방의 직접적인 참조 없이 이벤트를 처리할 수 있도록 도와줄 수 있을꺼에요.
+EventAggregator는 이벤트의 구독(Subscribe)과 출판(Publish)의 매커니즘을 가지고 있는 구조에요.이 패턴을 사용하면 이벤트들을 관리하는 기능을 제공하여 상대방의 직접적인 참조 없이 이벤트를 처리할 수 있도록 도와줄 수 있을꺼에요.
 
 ### 구조 알아보기
 
@@ -88,14 +88,14 @@ public class EventAggregator : IEventAggregator
 }
 ```
 
-실제 클래스는 위와 같이 멀티 스레드에 안전하도록 구현했어요. ConcurrentDictionary는 형식에 따라 이벤트들을 관리하는 List 객체를 가지고 있어요.  
-그리고 Aggregator 클래스는 싱글턴 인스턴스로 활용했어요. 이를 통해 어디서든 호출 할 수 있도록 했어요.  
-   
+실제 클래스는 위와 같이 멀티 스레드에 안전하도록 구현했어요. ConcurrentDictionary는 형식에 따라 이벤트들을 관리하는 List 객체를 가지고 있어요.\
+그리고 Aggregator 클래스는 싱글턴 인스턴스로 활용했어요. 이를 통해 어디서든 호출 할 수 있도록 했어요.\
+&#x20;\
 마지막 클래스의 사용 해제시엔 Dispose를 통해 Dictionary를 초기화 했어요.
 
 ### 이벤트 구독
 
-이벤트의 구독은 먼저 대상이 되는 이벤트의 클래스를 정의해야해요.  
+이벤트의 구독은 먼저 대상이 되는 이벤트의 클래스를 정의해야해요.\
 저는 여기에서 예시로 이벤트 클래스와 그 이벤트의 arguments를 다루는 클래스를 하나 만들어 볼께요.
 
 ```csharp
@@ -145,7 +145,5 @@ var args = new ProcessCompleteEvent(0, "Test Event Call");
 EventAggregator.Instance.Publish<ProcessCompleteEvent>(args);
 ```
 
-### 
-
-
+###
 

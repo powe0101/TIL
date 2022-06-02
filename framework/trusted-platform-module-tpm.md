@@ -1,4 +1,4 @@
-# Trusted Platform Module \(TPM\)
+# Trusted Platform Module (TPM)
 
 ### First of all
 
@@ -8,8 +8,6 @@ tpm 이라는 기술이 있어요. 한줄로 요약하면 **보안 및 개인정
 
 
 
-  
-  
-  
-
-
+\
+\
+\

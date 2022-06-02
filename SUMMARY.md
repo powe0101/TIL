@@ -11,6 +11,7 @@
 ## Design pattern
 
 * [Synchronized Data](design-pattern/synchronized-data.md)
+* [WPF MVVM Dialog](design-pattern/wpf-mvvm-dialog.md)
 * [Singleton Pattern](design-pattern/singleton-pattern.md)
 * [Docker](design-pattern/docker/README.md)
   * [Compose network](design-pattern/docker/compose-network.md)
