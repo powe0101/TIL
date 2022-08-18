@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Resume](https://www.notion.so/ae89f3b892ae4b1e9536496167fda1e4)
+* [Resume](https://infrequent-stocking-177.notion.site/ae89f3b892ae4b1e9536496167fda1e4)
 
 ## MVVM Pattern
 
