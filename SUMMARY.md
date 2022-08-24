@@ -46,6 +46,8 @@
 
 ## Algorithm
 
+* [LeetCode](algorithm/leetcode/README.md)
+  * [2358.Maximum Number of Groups Entering a Competition](algorithm/leetcode/2358.maximum-number-of-groups-entering-a-competition.md)
 * [Untitled](algorithm/untitled.md)
 * [Writing the Good Algorithm](algorithm/writing-the-good-algorithm.md)
 * [Tree(Graph theory)](algorithm/tree-graph-theory.md)
