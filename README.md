@@ -1,5 +1,6 @@
 ---
 description: https://til.hyunjin.space/
+layout: landing
 ---
 
 # Introduction
@@ -14,10 +15,3 @@ Here are some ideas to get you started:
 * Documents [https://til.hyunjin.space/](https://til.hyunjin.space/)
 * Github [https://github.com/powe0101](https://github.com/powe0101)
 * Email[ hyunjin.direct@gmail.com](email://hyunjin.direct@gmail.com)
-
-
-
-
-
-
-
