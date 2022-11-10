@@ -3,6 +3,11 @@
 * [Introduction](README.md)
 * [Resume](https://infrequent-stocking-177.notion.site/ae89f3b892ae4b1e9536496167fda1e4)
 
+## 2022 New Features
+
+* [Welcome to C# 11](2022-new-features/welcome-to-c-11.md)
+* [Page 2](2022-new-features/page-2.md)
+
 ## MVVM Pattern
 
 * [View-First or ViewModel-First](mvvm-pattern/view-first-or-viewmodel-first.md)
