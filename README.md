@@ -1,6 +1,5 @@
 ---
 description: https://til.hyunjin.space/
-layout: landing
 ---
 
 # Introduction
