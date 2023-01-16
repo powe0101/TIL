@@ -10,6 +10,7 @@
 
 ## MVVM Pattern
 
+* [WPF Change content with ContentControl](mvvm-pattern/wpf-change-content-with-contentcontrol.md)
 * [View-First or ViewModel-First](mvvm-pattern/view-first-or-viewmodel-first.md)
 * [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
 
