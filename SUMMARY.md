@@ -27,7 +27,6 @@
 
 ## Framework
 
-* [Trusted Platform Module (TPM)](framework/trusted-platform-module-tpm.md)
 * [.Net Core 3.1](framework/.net-core-3.1/README.md)
   * [React with .net core 3.1](framework/.net-core-3.1/react-with-.net-core-3.1.md)
   * [Setting for synology docker with .Net Core 3.1](framework/.net-core-3.1/setting-for-synology-docker-with-.net-core-3.1.md)
