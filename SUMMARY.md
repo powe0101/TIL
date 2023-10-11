@@ -3,27 +3,16 @@
 * [Introduction](README.md)
 * [Resume](https://infrequent-stocking-177.notion.site/ae89f3b892ae4b1e9536496167fda1e4)
 
-## 2022 New Features
-
-* [Welcome to C# 11](2022-new-features/welcome-to-c-11.md)
-* [Page 2](2022-new-features/page-2.md)
-
 ## MVVM Pattern
 
 * [WPF Change content with ContentControl](mvvm-pattern/wpf-change-content-with-contentcontrol.md)
-* [View-First or ViewModel-First](mvvm-pattern/view-first-or-viewmodel-first.md)
-* [Separation of Concerns](mvvm-pattern/mvvm-pattern.md)
+* [WPF MVVM Dialog](mvvm-pattern/wpf-mvvm-dialog.md)
 
 ## Design pattern
 
-* [Synchronized Data](design-pattern/synchronized-data.md)
-* [WPF MVVM Dialog](design-pattern/wpf-mvvm-dialog.md)
 * [Singleton Pattern](design-pattern/singleton-pattern.md)
-* [Docker](design-pattern/docker/README.md)
-  * [Compose network](design-pattern/docker/compose-network.md)
 * [Async to coroutine](design-pattern/async-to-coroutine.md)
 * [EventAggregator](design-pattern/eventaggregator.md)
-* [Messenger for MVVM Light](design-pattern/messenger-for-mvvm-light.md)
 
 ## Framework
 
@@ -35,6 +24,8 @@
   * [SOH, LOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
 * [Setup Python3 - Anaconda](framework/python3-anaconda.md)
 * [Quartz.net](framework/1.quarz.net.md)
+* [Docker](framework/docker/README.md)
+  * [Compose network](framework/docker/compose-network.md)
 
 ## Books
 
