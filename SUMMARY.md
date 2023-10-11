@@ -16,16 +16,14 @@
 
 ## Framework
 
-* [.Net Core 3.1](framework/.net-core-3.1/README.md)
-  * [React with .net core 3.1](framework/.net-core-3.1/react-with-.net-core-3.1.md)
-  * [Setting for synology docker with .Net Core 3.1](framework/.net-core-3.1/setting-for-synology-docker-with-.net-core-3.1.md)
-* [.Net framework CLR](framework/.net-framework-clr/README.md)
-  * [High Frequency Heap](framework/.net-framework-clr/high-frequency-heap.md)
-  * [SOH, LOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
 * [Setup Python3 - Anaconda](framework/python3-anaconda.md)
 * [Quartz.net](framework/1.quarz.net.md)
 * [Docker](framework/docker/README.md)
   * [Compose network](framework/docker/compose-network.md)
+* [.Net framework CLR](framework/.net-framework-clr/README.md)
+  * [High Frequency Heap](framework/.net-framework-clr/high-frequency-heap.md)
+  * [SOH, LOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
+* [Setting for synology docker with .Net Core 3.1](framework/setting-for-synology-docker-with-.net-core-3.1.md)
 
 ## Books
 
