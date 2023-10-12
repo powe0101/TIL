@@ -3,6 +3,10 @@
 * [Introduction](README.md)
 * [Resume](https://infrequent-stocking-177.notion.site/ae89f3b892ae4b1e9536496167fda1e4)
 
+## 🕸 AWS
+
+* [AWS API Gateway with Connection S3](aws/aws-api-gateway-with-connection-s3.md)
+
 ## MVVM Pattern
 
 * [WPF Change content with ContentControl](mvvm-pattern/wpf-change-content-with-contentcontrol.md)
