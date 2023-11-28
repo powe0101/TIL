@@ -14,6 +14,7 @@
 
 ## Design pattern
 
+* [TCP Connection](design-pattern/tcp-connection.md)
 * [UndoRedoStack](design-pattern/undoredostack.md)
 * [Singleton Pattern](design-pattern/singleton-pattern.md)
 * [Async to coroutine](design-pattern/async-to-coroutine.md)
