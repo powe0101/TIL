@@ -5,7 +5,7 @@
 
 ## 🕸 AWS
 
-* [AWS API Gateway with Connection S3](aws/aws-api-gateway-with-connection-s3.md)
+* [AWS API Gateway with Serverless](aws/aws-api-gateway-with-serverless.md)
 
 ## MVVM Pattern
 

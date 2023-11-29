@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# AWS API Gateway with Connection S3
+# AWS API Gateway with Serverless
 
 ### AWS API Gateway
 
@@ -23,5 +23,17 @@ aws에서 제공하는 api gateway에서는 RestAPI를 주로 쓰게 되는데, 
 
 특히 Cognito를 사용한다면 IDP 를 연결하고, IAM Role에 대한 지식을 공부해야합니다.
 
-저는 이런 프로세스를 설명하고 해결법을 공유하려고 해요.
+
+
+#### Introduction.
+
+최근 개발중인  프로젝트에서는 Cloud와 Client를 연동하고, 회원가입과 로그인, 그리고 계정에 맞는 DB와 Data를 저장하는 기능이 필요했어요.
+
+이를 구현하기 위해  EC2를사용하거나, On-Promise 를 구축하거나, Serverless를 사용하는 방법이 있었고, 저는 AWS의 Serverless를 사용하기로 했어요.
+
+
+
+
+
+
 
