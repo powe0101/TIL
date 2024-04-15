@@ -97,5 +97,10 @@ public class UndoRedoStack
         target.Push(action);
     }
 }
+
 ```
 {% endcode %}
+
+### Reference.
+
+{% embed url="https://www.markwithall.com/programming/2014/06/20/undo-redo.html" %}
