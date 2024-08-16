@@ -49,3 +49,7 @@
 * [Portfolio](project/portfolio/README.md)
   * [Handrum](project/portfolio/handrum.md)
   * [Algoria](project/portfolio/algoria.md)
+
+***
+
+* [Adaptive Parallel Threshold](adaptive-parallel-threshold.md)
