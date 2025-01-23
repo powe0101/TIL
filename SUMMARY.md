@@ -29,6 +29,7 @@
 * [.Net framework CLR](framework/.net-framework-clr/README.md)
   * [High Frequency Heap](framework/.net-framework-clr/high-frequency-heap.md)
   * [SOH, LOH, POH, GC Collect](framework/.net-framework-clr/soh-boh-poh-gc-collect.md)
+  * [CLR에서 GC를 다루는 방법 - 1](framework/.net-framework-clr/clr-gc-1.md)
 * [Setting for synology docker with .Net Core 3.1](framework/setting-for-synology-docker-with-.net-core-3.1.md)
 
 ## Books
@@ -40,7 +41,7 @@
 
 * [PCA with linear Accord.Net](algorithm/pca-with-linear-accord.net.md)
 * [Tree(Graph theory)](algorithm/tree-graph-theory.md)
-* [Map and unordered\_map](algorithm/map-and-unordered\_map.md)
+* [Map and unordered\_map](algorithm/map-and-unordered_map.md)
 * [Complexity of an Algorithm](algorithm/complexity-of-an-algorithm.md)
 * [Boyer Moore Horspool Algorithm](algorithm/boyer-moore-horspool-algorithm.md)
 
