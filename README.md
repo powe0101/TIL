@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 * Documents [https://til.hyunjin.space/](https://til.hyunjin.space/)
 * Github [https://github.com/powe0101](https://github.com/powe0101)
 * Email[ hyunjin.direct@gmail.com](email://hyunjin.direct@gmail.com)
+
+
+
+Direct Contact - jonny&#x20;
+
+[https://open.kakao.com/o/gTGjqnwb](https://open.kakao.com/o/gTGjqnwb)
