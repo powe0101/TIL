@@ -1,7 +1,7 @@
 ---
 description: https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
