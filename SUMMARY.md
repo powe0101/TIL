@@ -3,6 +3,10 @@
 * [Introduction](README.md)
 * [Resume](https://infrequent-stocking-177.notion.site/ae89f3b892ae4b1e9536496167fda1e4)
 
+## Article
+
+* [Why Your Best Engineers Are Interviewing Elsewhere](article/why-your-best-engineers-are-interviewing-elsewhere.md)
+
 ## 🕸️ AWS
 
 * [AWS API Gateway with Serverless](aws/aws-api-gateway-with-connection-s3.md)
