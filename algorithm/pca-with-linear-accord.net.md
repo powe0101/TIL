@@ -1,16 +1,5 @@
 ---
 description: Implements principal component analysis(PCA) algorithm
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # PCA with linear Accord.Net

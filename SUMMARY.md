@@ -5,7 +5,7 @@
 
 ## Article
 
-* [Why Your Best Engineers Are Interviewing Elsewhere](article/why-your-best-engineers-are-interviewing-elsewhere.md)
+* [왜 최고의 엔지니어들은 다른 회사 면접을 보고 있는가](article/undefined.md)
 
 ## 🕸️ AWS
 
