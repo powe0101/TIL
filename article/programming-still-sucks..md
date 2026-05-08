@@ -80,3 +80,5 @@ description: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
 나머지 우리들은 갑판 위에서 왜 돛대가 거꾸로 되어 있는지, 저 인형이 무엇을 하는지 고민하고 있다.
 
 그 인형에 불이 붙는다.
+
+{% embed url="https://www.stvn.sh/writing/programming-still-sucks-fqffhyp" %}
