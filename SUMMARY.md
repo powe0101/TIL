@@ -9,6 +9,7 @@
 * [Programming Sucks](article/programming-sucks.md)
 * [Programming Still Sucks.](article/programming-still-sucks..md)
 * [NIKKE PC 런처 침해 사고 한눈에 보기 (2026년 11월)](article/nikke-pc-launcher-incident-2026-11.md)
+* [Claude Fable 5.2와 Mythos 5.2 발표 정리](article/claude-fable-and-mythos-5-2.md)
 
 ## 🕸️ AWS
 
